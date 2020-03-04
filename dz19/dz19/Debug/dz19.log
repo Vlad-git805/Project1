@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\шаг\porga\dz19\dz19\source.cpp(142): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  dz19.vcxproj -> D:\ШАГ\porga\dz19\Debug\dz19.exe
